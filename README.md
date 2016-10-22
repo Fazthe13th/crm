@@ -15,7 +15,7 @@ Follow the steps below for to install this web application to a server
  6. Open the Database folder of this git located on the root directory. There is crm.sql file. Remane it to the name you choose   to create database on your server.
  7. Upload all the file to server root folder except Database folder.
  8. Import the sql file to your database.
- All done. Now go to www.yourdomainname/crm/ and you all see the web application running.
+ All done. Now go to www.yourdomainname/crm/ and you will see the web application running.
  You will need username and password to login as admistrator. Send me an email to www.faz13@gmail.com (my email address has www front of it), and i will verify and give you the password and username.
 
 ## Live demo
