@@ -1,9 +1,9 @@
-# Iron Fitness
-Iron fitensss application build in javafx. Made for a Gym management.
+# Customer Relationship Management
 
 This project, Customer Relationship Management, is a helping tool for such persons who are not economically eligible to have their own customer information related software. They can use our system to dynamically view all the necessary information that will surly help them to manage their relationship with their customer.
 
 ## Installion method
+
 Follow the steps below for to install this web application to a server
  1. Get a web server that supports PHP 5 or higher and have MySQL support
  2. We must have received username, hostname, password for your mysql database
@@ -21,5 +21,6 @@ Follow the steps below for to install this web application to a server
  You will need username and password to login as admistrator. Send me an email to www.faz13@gmail.com (my email address has www front of it), and i will verify and give you the password and username.
 
 ## Live demo
+
 Here is a live demo of my web application
 http://farewellapp.byethost7.com/crm/
